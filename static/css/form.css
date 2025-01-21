@@ -1,0 +1,11 @@
+form{
+    background-color: aqua;
+    color: darkred;
+}
+label{
+    font: bold;
+}
+input{
+    background-color: blueviolet;
+    color: white;
+}

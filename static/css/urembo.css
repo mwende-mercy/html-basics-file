@@ -1,0 +1,21 @@
+h2{
+    color: #419541;
+    text-align: center;
+    font-family: "Droid Sans Mono";
+    font-size: 30px;
+    font: bold;
+}
+td,th{
+    border: 2px solid red;
+    padding: 10px;
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    color: blueviolet;
+    font: bold;
+}
